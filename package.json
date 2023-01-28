@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_backend_p1",
+  "version": "1.0.0",
+  "description": "nodejs로 백엔드 기초  \r 조코딩의 ```한시간만에 Node.js 백엔드 기초 끝내기 (ft. API 구축)``` 따라하기  \r [youtube](https://www.youtube.com/watch?v=Tt_tKhhhJqY)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blueconecell/nodejs_Backend_p1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blueconecell/nodejs_Backend_p1/issues"
+  },
+  "homepage": "https://github.com/blueconecell/nodejs_Backend_p1#readme",
+  "dependencies": {
+    "figlet": "^1.5.2"
+  }
+}
